@@ -1,0 +1,282 @@
+body
+{
+    background-image: url(media/pexels-steve-johnson-1269968.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+
+}
+form
+{
+    padding: 2rem;
+    background-color: white;
+    border: 2px solid;
+    width: auto;
+    height: 42rem;
+    left: auto;
+    right: auto;
+    margin: 2rem;
+    box-shadow: 0px 15px 40px;
+}
+form div.Head img
+{
+    height: 5rem;
+    width: 15rem;
+    margin-top: -15px;
+    margin-bottom: -5px;
+    margin-left: -17px;
+}
+form div.Head h1
+{
+    text-align: center;
+    margin-top: -55px;
+}
+p#p-1
+{
+    text-align: center;
+    margin-top: -20px;
+}
+p#p-3
+{
+    text-align: center;
+    margin-top: -10px;
+    font-size: larger;
+}
+p#p-4
+{
+    text-align: center;
+    margin-top: -15px;
+}
+p#p-5
+{
+    text-align: center;
+    margin-top: -10px;
+}
+form div.Head div.d-1
+{
+    background-color: black;
+    height: 3px;
+}
+form div.BoDy input
+{
+    position: absolute;
+    left: 265px;
+    height: 2rem;
+    width: 15rem;
+    top: 285px;
+}
+form div.BoDy input#in-1
+{
+  
+}
+form div.BoDy input#in-2
+{
+    top: 354px;
+}
+form div.BoDy input#in-3
+{
+    top: 420px;
+}
+form div.BoDy input#in-4
+{
+    top: 484px;
+}
+form div.BoDy input#in-5
+{
+    top: 553px;
+}
+form div.BoDy input#in-6
+{   
+    position: absolute;
+    top: 18rem;
+    left: 49rem;
+}
+form div.BoDy input#in-7
+{
+    position: absolute;
+    top: 22rem;
+    left: 49rem;
+}
+form div.BoDy input#in-8
+{
+    position: absolute;
+    top: 26.5rem;
+    left: 49rem;   
+}
+form div.BoDy h5
+{
+    margin-bottom: 35px;
+    margin-top: 45px;
+    font-size: larger;
+    color: white;
+}
+form div.BoDy h4
+{
+    margin-bottom: 35px;
+    margin-top: 70px;
+    font-size: larger;
+    color: white;
+}
+form div.BoDy h5#le-1
+{
+    position: absolute;
+    top: 248px;
+    left: 35rem;
+}
+form div.BoDy h5#le-2
+{
+    position: absolute;
+    top: 316px;
+    left: 35rem;
+}
+form div.BoDy h5#le-3
+{
+    position: absolute;
+    top: 384px;
+    left: 35rem;
+}
+form div.BoDy div#backg
+{
+    background-color: #080808;
+    height: 450px;
+    position: absolute;
+    top: 228px;
+    width: 1387px;
+}
+div.BoDy div.d-2
+{
+    background-color: black;
+    height: 3px;
+    margin-top: 6rem;
+}
+form div.BoDy h4#le-5 ,h5#le-6,h5#le-7,h5#le-8,h5#le-9
+{
+    position: relative;
+    left: 2rem;
+}
+div.BoDy button
+{
+    position: absolute;
+    top: 39rem;
+    left: 85.6rem;
+}
+div.BoDy button.save-btn
+{
+    left: 71rem;
+    background-color: cyan;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    font-weight: bold
+}
+div.BoDy button.update-btn
+{
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    left: 76rem;
+    font-weight: bold;
+    background-color: chartreuse;
+    color: black;
+}
+div.BoDy button.reset-btn
+{
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    left: 80.6rem;
+    background-color: mediumblue;
+    font-weight: bold;
+    color: white;
+}
+div.BoDy button.delete-btn
+{
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    background-color: brown;
+    color: white;
+    font-weight: bold
+}
+div#Show_img
+{
+    background-color: white;
+    height: 350px;
+    width: 292px;
+    position: absolute;
+    top: 15.5rem;
+    left: 71rem;
+}
+div.Footer button
+{
+    height: 30px;
+    width: 80px;
+    background-color: cornflowerblue;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    top: 10px;
+}
+div.Footer p
+{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+}
+div#Show_img input#in-10
+{
+    position: absolute;
+    top: 324px;
+    left: 5px;
+}
+div#Show_img img#blah
+{
+    height: 292px;
+    width: 292px;
+}
+div.BoDy h5#le-10
+{
+    position: absolute;
+    left: 6rem;
+    top: 36.5rem;
+}
+input#in-9
+{
+    top: 38.6rem;
+}
+input#in-10
+{
+    top: 30.4rem;
+    left: 49rem;
+}
+input#in-11
+{
+    top: 34.5rem;
+    left: 49rem;
+}
+input#in-12
+{
+    top: 38.5rem;
+    left: 49rem;
+}
+h5#le-11
+{
+    position: absolute;
+    top: 28rem;
+    left: 35rem;
+}
+h5#le-12
+{
+    position: absolute;
+    top: 32.3rem;
+    left: 35rem;
+}
+h5#le-13
+{
+    position: absolute;
+    top: 36.3rem;
+    left: 35rem;
+}

@@ -1,0 +1,249 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    width: 97%;
+    height: auto;
+}
+form
+{
+    text-align: center;
+}
+form div.due
+{
+    border: 2px solid;
+    padding: 5px;
+    width: 20%;
+    margin-top: 40px;
+    text-align: end;
+    margin-left: 20px;
+}
+form div.due input
+{
+    border: none;
+}
+form div.due input:focus
+{
+    outline: none;
+}
+form div.grand_total
+{
+    float: right;
+    margin-top: -70px;
+}
+form div.grand_total input
+{
+    border: none;
+    border-bottom: 2px solid;
+}
+form div.grand_total input:focus
+{
+    outline: none;
+}
+form table
+{
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+form table tr td textarea
+{
+    width: 98%;
+    border: none;
+    height: 3rem;
+}
+form table tr td textarea:focus
+{
+    outline: none;
+}
+form textarea.buyer
+{
+    height: 20px;
+    font-size: 17px;
+    border: none;
+    margin-left: 5px;
+}
+form textarea.si-no
+{
+    height: 20px;
+    font-size: 17px;
+    border: none;
+    margin-left: 5px;
+}
+form textarea.details
+{
+    text-align: -webkit-center;
+    width: 70%;
+    margin-top: 10px;
+    height: auto;
+    position: relative;
+    top: 0.5rem;
+    left: -7rem;
+}
+form div.propitor
+{
+    float: right;
+    margin-top: 80px;
+}
+form div.customar
+{
+    float: left;
+    margin-left: 35rem;
+    margin-top: 0px;
+}
+form div.propitor input
+{
+    border: none;
+    border-bottom: 2px solid;
+}
+form div.customar input
+{
+    border: none;
+    border-bottom: 2px solid;
+}
+form div.propitor input:focus
+{
+    outline: none;
+}
+form div.customar input:focus
+{
+    outline: none;
+}
+form div button
+{
+    margin-top: 150px;
+}
+form h2
+{
+    background-color: darkcyan;
+    color: whitesmoke;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 100%;
+}
+form footer h5
+{
+    margin-top: 230px;
+    margin-left: 2rem;
+}
+form input#newrows
+{
+    position: relative;
+    top: -20px;
+    left: 35rem;
+    width: 15rem;
+    height: 2rem;
+    background-color: royalblue;
+    color: white;
+    font-weight: bold;
+}
+form div button#DElete_btn
+{
+    background-color: rgba(255, 0, 0, 0.78);
+    position: relative;
+    color: aliceblue;
+    float: right;
+    top: -7rem;
+    right: -3rem;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    width: 5rem;
+}
+form div button#EDit_btn
+{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #00ff1f;
+    font-weight: bold;
+    position: relative;
+    float: right;
+    top: -7rem;
+    right: 8rem;
+    width: 5rem;
+}
+form div button#BAck_btn
+{
+    padding: 5px;
+    position: relative;
+    top: -7rem;
+    float: left;
+    left: 3rem;
+    border-radius: 5px;
+    background-color: darkturquoise;
+    width: 5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+form h1
+{
+    margin-top: 2em;
+    margin-left: 3.4rem;
+    position: relative;
+}
+form p#p-1
+{
+    margin-top: -1em;
+    margin-left: 3rem;
+}
+form img
+{
+    height: 5rem;
+    width: 15rem;
+    position: absolute;
+    left: 0rem;
+    top: 35px;
+}
+form div#RADio
+{
+    position: relative;
+    top: 1rem;
+    font-weight: bold;
+}
+form h4#Cs
+{
+    position: relative;
+    float: left;
+    top: 10rem;
+    left: 5rem;
+    border-top: 2px solid;
+    width: 15rem;
+}
+form h4#Ps
+{
+    position: relative;
+    float: right;
+    top: 7rem;
+    right: 5rem;
+    border-top: 2px solid;
+    width: 15rem;
+}
+textarea#id_field
+{
+    position: absolute;
+    right: 26px;
+    top: 2rem;
+    border: none;
+    width: 6rem;
+    height: 1rem;
+}
+#Id_ID
+{
+    position: absolute;
+    top: 17.5px;
+    right: 133px;
+}
+#Date_Time
+{
+    border: none;
+}
+#quentity
+{
+    width: 57px;
+}
+#paid_unpaid
+{
+    width: 82px;
+}

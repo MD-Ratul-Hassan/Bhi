@@ -1,0 +1,416 @@
+body
+{
+    background-image: url(media/pexels-steve-johnson-1269968.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+
+}
+form
+{
+    padding: 2rem;
+    background-color: white;
+    border: 2px solid;
+    width: auto;
+    height: 45rem;
+    left: auto;
+    right: auto;
+    margin: 2rem;
+    box-shadow: 0px 15px 40px;
+}
+form div.Head img
+{
+    height: 5rem;
+    width: 15rem;
+    margin-top: -15px;
+    margin-bottom: -5px;
+    margin-left: -17px;
+}
+form div.Head h1
+{
+    text-align: center;
+    margin-top: -55px;
+}
+p#p-1
+{
+    text-align: center;
+    margin-top: -20px;
+}
+p#p-3
+{
+    text-align: center;
+    margin-top: -10px;
+    font-size: larger;
+}
+p#p-4
+{
+    text-align: center;
+    margin-top: -15px;
+}
+p#p-5
+{
+    text-align: center;
+    margin-top: -10px;
+}
+form div.Head div.d-1
+{
+    background-color: black;
+    height: 3px;
+}
+form div.BoDy input
+{
+    position: absolute;
+    left: 265px;
+    height: 1.7rem;
+    width: 15rem;
+    top: 270px;
+}
+form div.BoDy input#in-1
+{
+  
+}
+form div.BoDy input#in-2
+{
+    top: 316px;
+}
+form div.BoDy input#in-3
+{
+    top: 363px;
+}
+form div.BoDy input#in-4
+{
+    top: 410px;
+}
+form div.BoDy input#in-5
+{
+    top: 458px;
+}
+form div.BoDy input#in-6
+{   
+    position: absolute;
+    top: 505px;
+    left: 16.56rem;
+}
+form div.BoDy input#in-7
+{
+    position: absolute;
+    left: 48rem;
+    top: 315px;
+}
+form div.BoDy input#in-8
+{
+    position: absolute;
+    top: 34.4rem;
+    left: 48rem;
+}
+input#in-9
+{
+    position: absolute;
+    left: 48rem;
+}
+input#in-10
+{
+    position: absolute;
+    left: 48rem;
+    top: 361px;
+}
+input#in-11
+{
+    position: absolute;
+    left: 48rem;
+    top: 25.4rem;
+}
+input#in-12
+{
+    position: absolute;
+    left: 48rem;
+    top: 28.4rem;
+}
+input#in-13
+{
+    position: absolute;
+    left: 48rem;
+    top: 31.4rem;
+}
+input#in-14
+{
+    top: 551px;
+}
+input#in-15
+{
+    top: 595px;
+}
+input#in-16
+{
+    top: 640px;
+}
+form div.BoDy h5
+{
+    margin-bottom: 35px;
+    margin-top: 45px;
+    font-size: larger;
+    color: white;
+}
+form div.BoDy h4
+{
+    margin-bottom: 35px;
+    margin-top: 70px;
+    font-size: larger;
+    color: white;
+}
+form div.BoDy h5#le-1
+{
+    position: absolute;
+    top: 464px;
+    left: 6rem;
+}
+form div.BoDy h5#le-2
+{
+    position: absolute;
+    top: 272px;
+    left: 35rem;
+}
+form div.BoDy h5#le-3
+{
+    position: absolute;
+    top: 508px;
+    left: 35.3rem;
+}
+form div.BoDy div#backg
+{
+    background-color: #080808;
+    height: 480px;
+    position: absolute;
+    top: 228.5px;
+    width: 1387px;
+}
+div.BoDy div.d-2
+{
+    background-color: black;
+    height: 3px;
+    position: relative;
+    top: -346px;
+    width: 86.7rem;
+}
+form div.BoDy h4#le-5 ,h5#le-6 ,h5#le-7 ,h5#le-8 ,h5#le-9
+{
+    position: relative;
+    left: 2rem;
+    top: 2rem;
+    margin-top: 1rem;
+}
+h4#le-5
+{
+
+}
+h5#le-6
+{
+    top: 21px;
+}
+h5#le-7
+{
+    top: 11px;
+}
+h5#le-8
+{
+    top: 2px;
+}
+h5#le-9
+{
+    top: -7px;
+}
+h5#le-16
+{
+    position: relative;
+    top: 18px;
+    left: 2rem;
+}
+h5#le-17
+{
+    position: relative;
+    top: -3px;
+    left: 2rem;
+}
+h5#le-18
+{
+    position: relative;
+    top: -24px;
+    left: 2rem;
+}
+div.BoDy button
+{
+    position: absolute;
+    top: 35rem;
+    left: 60rem;
+}
+div.BoDy button.save-btn
+{
+    margin-top: 5.5rem;
+    left: 40rem;
+    background-color: cyan;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    font-weight: bold;
+}
+div.BoDy button.update-btn
+{
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    left: 45rem;
+    font-weight: bold;
+    background-color: chartreuse;
+    color: black;
+    margin-top: 5.5rem;
+}
+div.BoDy button.reset-btn
+{
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    left: 50rem;
+    background-color: mediumblue;
+    font-weight: bold;
+    color: white;
+    margin-top: 5.5rem;
+}
+div.BoDy button.delete-btn
+{
+    margin-top: 5.5rem;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    left: 55rem;
+}
+div#Show_img
+{
+    background-color: white;
+    height: 400px;
+    width: 365px;
+    position: absolute;
+    top: 17rem;
+    left: 66rem;
+}
+div.Footer button
+{    
+    height: 30px;
+    width: 80px;
+    background-color: cornflowerblue;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 45.5rem;
+}
+div.Footer p
+{
+    text-align: center;
+    position: relative;
+    top: -290px;
+    font-weight: bold;
+}
+div#Show_img input#in-10
+{
+    position: absolute;
+    top: 372px;
+    left: 5px;
+}
+div#Show_img img#blah
+{
+    height: 360px;
+    width: 365px;
+}
+h4#le-5
+{
+    position: relative;
+    left: 2rem;
+    top: -3rem;
+}
+h5#le-11
+{
+    position: relative;
+    top: -459px;
+    left: 31rem;
+}
+h5#le-12
+{
+    position: relative;
+    top: -27.2rem;
+    left: 31rem;
+}
+h5#le-13
+{
+    position: relative;
+    top: -28.5rem;
+    left: 31rem;
+}
+h5#le-14
+{
+    position: relative;
+    top: -29.7rem;
+    left: 31rem;
+}
+h5#le-15
+{
+    position: relative;
+    top: -31rem;
+    left: 31rem;
+}
+form div.BoDy div.d-3
+{
+    background-color: black;
+    height: 4rem;
+    width: 23rem;
+    position: relative;
+    top: -16rem;
+    left: 63.65rem;
+    border-radius: 10px;
+}
+div#Up_btn
+{
+    background-color: black;
+    height: 1.2rem;
+    width: 15rem;
+    position: absolute;
+    z-index: 1;
+    top: 606px;
+    left: 36rem;
+}
+input#paid
+{
+    position: relative;
+    top: 0px;
+    left: 100px;
+    height: 1rem;
+    width: 1rem;
+}
+input#unpaid
+{
+    position: relative;
+    top: -74px;
+    left: 210px;
+    height: 1rem;
+    width: 1rem;
+}
+p.paid
+{
+    position: relative;
+    top: -38px;
+    left: 130px;
+    font-weight: bold;
+    color: white;
+}
+p.unpaid
+{
+    position: relative;
+    top: -111px;
+    left: 240px;
+    font-weight: bold;
+    color: white;
+}
